@@ -31,20 +31,20 @@ h6 {
 h1 {
   font-size: 4rem;
   line-height: 4.1rem;
-      font-weight: 700;
+  font-weight: 700;
  }
   h1:hover {
     color: #66b3ff;  }
 
 h2 {
-  font-size: 2.5rem;
-  line-height: 3rem;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
   font-weight: 700 }
 
 .subheading {
   font-weight: 200;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1.35rem;
+  font-size: 1.45rem;
   line-height: 1.3rem; }
 
 .list-social-icons a {
@@ -100,7 +100,8 @@ h2 {
 section.resume-section {
   border-bottom: 5px solid #dee2e6;
   padding-top: 1rem ;
-  padding-bottom: 1rem ; }
+  padding-bottom: 1rem ;
+  font-size: 1.05rem; }
   section.resume-section .resume-item .resume-date {
     min-width: none; }
 
