@@ -128,8 +128,13 @@ section.resume-section {
 
 a {
   color: #BD5D38; }
-  a:hover, a:focus, a:active {
+  a:focus, a:active {
     color: #824027; }
+  a:hover {
+    color: #BD5D38;
+    text-decoration:none;
+    box-shadow: inset 0 -10px 0 rgba(255, 249, 140, 1);
+  }
 
   footer {
     font-size: 12px;
